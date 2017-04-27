@@ -1,4 +1,7 @@
-# api documentation for  [react-validation (v2.10.9)](https://github.com/Lesha-spr/react-validation)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-validation.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-validation) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-validation.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-validation)
+# npmdoc-react-validation
+
+#### basic api documentation for  [react-validation (v2.10.9)](https://github.com/Lesha-spr/react-validation)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-validation.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-validation) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-validation.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-validation)
+
 #### validation components
 
 [![NPM](https://nodei.co/npm/react-validation.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-validation)
@@ -114,7 +117,8 @@
         "test": "node --harmony_proxies node_modules/.bin/jest --coverage && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
         "test:dev": "jest"
     },
-    "version": "2.10.9"
+    "version": "2.10.9",
+    "bin": {}
 }
 ```
 
